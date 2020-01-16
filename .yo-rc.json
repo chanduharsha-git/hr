@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.bastech.hr"
+    },
+    "jhipsterVersion": "6.5.0",
+    "applicationType": "microservice",
+    "baseName": "hr",
+    "packageName": "com.bastech.hr",
+    "packageFolder": "com/bastech/hr",
+    "serverPort": "8082",
+    "authenticationType": "oauth2",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OTM1N2M5OTUyY2VlOTgzZWYwMjk3MWU3NTFhNTgxYjFkYTM3YjkyYjEzMDQwMTU2ODJkMjE2MTZmZmE2NGQ4M2JhMmE0NmMyMTNkODFhNmJkNjIzZDU3ZmJiNzM0ZjM5MjkzMDc1OWU5MGE1YWNhNjMxOWE2ZGZmMDk3Y2I1YjM=",
+    "embeddableLaunchScript": false,
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
